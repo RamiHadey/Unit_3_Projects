@@ -26,7 +26,7 @@
    ratingSummaries is an array of the HTML code for each customer reviewref
 
    
-*/
+*/ 
 
 var itemTitle = "Dance Off VII";
 var itemManufacturer = "Anasta Games";

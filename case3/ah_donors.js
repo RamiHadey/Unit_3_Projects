@@ -5,7 +5,7 @@
    Tutorial 10
    Case Problem 3
   
-     
+      
    Filename: ah_product.js  
    
    Variables:
@@ -16,7 +16,7 @@
       donors[3] - address
       donors[4] - city
       donors[5] - state
-      donors[6] - postal code
+      donors[6] - postal code 
       donors[7] - phone number
       donors[8] - email
       donors[9] - donation amount
